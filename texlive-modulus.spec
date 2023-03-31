@@ -1,6 +1,6 @@
 Name:		texlive-modulus
 Version:	47599
-Release:	1
+Release:	2
 Summary:	A non-destructive modulus and integer quotient operator for TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/modulus
